@@ -63,7 +63,7 @@ I enjoy designing enterprise automation solutions, building reusable frameworks,
 
 <td valign="top" width="25%">
 
-### 🤖 Agentic Process Automation
+### 🤖 Agentic AI
 
 ![Agent Builder](https://img.shields.io/badge/Agent_Builder-9333EA?style=for-the-badge)
 ![Maestro](https://img.shields.io/badge/Maestro-7C3AED?style=for-the-badge)
